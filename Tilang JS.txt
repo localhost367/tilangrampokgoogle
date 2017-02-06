@@ -1,0 +1,2 @@
+
+<script async='async' type='text/javascript'> var SPklikkanan = &#39;TILANG&#39;;</script> <script src='https://rawgit.com/septyaman/SP_TILANG/master/sp-tilang.js' type='text/javascript'/>
